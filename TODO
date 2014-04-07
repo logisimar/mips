@@ -1,0 +1,9 @@
+* half-adder
+* full-adder
+* Register File
+	- Register
+		~ D Flip-Flop
+			+ S-R Flip-Flop (Latch)
+* Controller
+* ALU
+* Decoder
