@@ -4,14 +4,15 @@ half-adder
 Input
 -----
 
-A: Input 1
-B: Input 2
-Cin: Carry in
+	Cin: Carry in
+	A: Input 1
+	B: Input 2
 
 Output
 ------
 
-Cout: Carry out
+	Cout: Carry out
+	S: Output
 
 Truth table
 -----------
